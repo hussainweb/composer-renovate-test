@@ -185,7 +185,7 @@
         "drupal/views_slideshow": "4.6.0",
         "drupal/views_slideshow_cycle2": "1.x-dev",
         "drupal/yoast_seo": "^1.5",
-        "drush/drush": "9.7.2",
+        "drush/drush": "10.2.2",
         "jaypan/jquery_colorpicker": "master",
         "mnsami/composer-custom-directory-installer": "1.1.1",
         "npm-asset/slick-slider": "1.8.2",
