@@ -1,0 +1,26 @@
+parameters:
+  ascii:
+    failed: vendor/vijaycs85/drupal-quality-checker/resources/ascii/grumpy.txt
+    succeeded: vendor/vijaycs85/drupal-quality-checker/resources/ascii/happy.txt
+  git_dir: .
+  bin_dir: vendor/bin
+  tasks:
+    phplint:
+      exclude:
+        - ./web/themes/custom/axe/components/_twig-components/functions/bem.function.php
+        - ./web/themes/custom/axe/pattern-lab
+    yamllint: ~
+    composer: ~
+    jsonlint: ~
+    phpcpd: ~
+    phpcpd:
+      directory: './web/modules/custom'
+    phpcs:
+      standard: Drupal
+      ignore_patterns:
+        - ./web/themes/custom/axe/components/_twig-components
+        - ./web/themes/custom/axe/pattern-lab
+    npm_script:
+      script: lint
+      is_run_task: true
+      working_directory: './web/themes/custom/axe/'
