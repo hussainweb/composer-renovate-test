@@ -131,7 +131,7 @@
         "drupal/blocktabs": "^1.0@beta",
         "drupal/cdn": "3.4.0",
         "drupal/ckeditor_advanced_tab": "1.0.0-rc3",
-        "drupal/ckeditor_config": "2.2.0",
+        "drupal/ckeditor_config": "3.0.0",
         "drupal/ckeditor_font": "1.0.0",
         "drupal/ckeditor_indentblock": "^1.0@beta",
         "drupal/ckeditor_lineheight": "1.1.0",
