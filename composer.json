@@ -109,7 +109,7 @@
         "php": ">=7.3",
         "acquia/lightning": "4.1.3",
         "bower-asset/jquery-simple-color": "1.2.2",
-        "bower-asset/spectrum": "1.8.0",
+        "bower-asset/spectrum": "1.8.1",
         "ckeditor-plugin/font": "4.13.1",
         "ckeditor-plugin/indent": "4.11.4",
         "ckeditor-plugin/indentblock": "4.11.4",
