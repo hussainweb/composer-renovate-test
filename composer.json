@@ -179,7 +179,7 @@
         "drupal/simple_sitemap": "^3.6",
         "drupal/slick_views": "2.1.0",
         "drupal/social_media_links_field": "2.6.0",
-        "drupal/twig_field_value": "1.2.0",
+        "drupal/twig_field_value": "2.0.0",
         "drupal/twig_tweak": "2.4.0",
         "drupal/views_data_export": "^1.0@beta",
         "drupal/views_slideshow": "4.6.0",
