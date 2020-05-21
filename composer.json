@@ -163,7 +163,7 @@
         "drupal/linkedin_insights_tag": "1.0.0",
         "drupal/migrate_file": "1.1.0",
         "drupal/migrate_plus": "5.1.0",
-        "drupal/migrate_tools": "4.5.0",
+        "drupal/migrate_tools": "5.0.0",
         "drupal/multiple_fields_remove_button": "^1.0@alpha",
         "drupal/node_read_time": "^1.0",
         "drupal/paragraphs": "1.10.0",
