@@ -192,7 +192,7 @@
         "oomphinc/composer-installers-extender": "1.1.2",
         "platformsh/config-reader": "2.3.1",
         "symfony/event-dispatcher": "4.3.4 as 3.4.99",
-        "vlucas/phpdotenv": "2.6.1",
+        "vlucas/phpdotenv": "2.6.4",
         "webflo/drupal-finder": "1.2.0",
         "webmozart/path-util": "2.3.0",
         "zaporylie/composer-drupal-optimizations": "1.1.1"
