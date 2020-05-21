@@ -9,7 +9,7 @@
       "groupName": "Drupal modules (non-major)"
     },
     {
-      "packagePatterns": ["^drupal/core-"],
+      "packagePatterns": ["^drupal/core"],
       "updateTypes": ["patch", "minor"],
       "groupName": "Drupal core (non-major)"
     },
