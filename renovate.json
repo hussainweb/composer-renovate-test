@@ -9,6 +9,7 @@
       "groupName": "Drupal modules (non-major)"
     },
     {
+      "managers": ["composer"],
       "packagePatterns": ["^drupal/core"],
       "updateTypes": ["patch", "minor"],
       "groupName": "Drupal core (non-major)"
