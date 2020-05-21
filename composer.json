@@ -175,7 +175,7 @@
         "drupal/redis": "1.2.0",
         "drupal/response_code_condition": "1.0.0",
         "drupal/s3fs": "^3.0@alpha",
-        "drupal/search_api_solr": "3.8.0",
+        "drupal/search_api_solr": "4.0.1",
         "drupal/simple_sitemap": "^3.6",
         "drupal/slick_views": "2.1.0",
         "drupal/social_media_links_field": "2.6.0",
